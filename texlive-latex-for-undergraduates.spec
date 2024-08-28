@@ -1,6 +1,6 @@
 Name:		texlive-latex-for-undergraduates
-Version:	64647
-Release:	2
+Version:	70199
+Release:	1
 Summary:	A tutorial aimed at introducing undergraduate students to LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex-for-undergraduates
