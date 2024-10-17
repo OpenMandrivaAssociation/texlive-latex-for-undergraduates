@@ -3,7 +3,7 @@ Version:	70199
 Release:	1
 Summary:	A tutorial aimed at introducing undergraduate students to LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex-for-undergraduates
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/latex-for-undergraduates
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-for-undergraduates.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-for-undergraduates.doc.r%{version}.tar.xz
